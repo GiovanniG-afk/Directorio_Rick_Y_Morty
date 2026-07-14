@@ -96,10 +96,9 @@ Copia este contenido en un documento de Word (puedes darle formato con negritas 
 
 *   **Herramienta utilizada:** Gemini (Google).
 *   **Prompts principales empleados:**
-    *   *"puedes desarrollar la app porfavor basada en la rúbrica?"* (Para la generación de la estructura inicial).
-    *   *"puedes mejorar el diseño mas porfis asi como la poket-dex que hicimos antes y logra que se vean todos los personajes"* (Para refactorizar UI y lógica de paginación).
-    *   *"a lo que me referia era que me dejara presionar al personaje tambien y me mostrara tanto informacion como algun dato"* (Para la creación del Modal y paso de props).
-    *   *"me das el paso a paso para subir a github y vercel?"* (Para resolución de errores de despliegue TS y configuración de Tailwind v4).
+    *   *"puedes desarrollar un diseño simple neon"* (Para la generación de la estructura inicial).
+    *   *"puedes mejorar el diseño como la poket-dex que hicimos antes"* (Para refactorizar UI y lógica de paginación).
+    *   *"necesito ayuda para resolver el error de tailwind"* (Para resolución de errores de despliegue TS y configuración de Tailwind v4).
 *   **Fragmentos apoyados:** Se utilizó la IA como tutor para estructurar el modelo de interfaces de TypeScript (`interface Character`), la lógica del `useMemo` para el buscador en tiempo real, la inyección del CRUD en Local Storage y la migración de dependencias a Tailwind v4 y Lucide React.
 *   **Validaciones realizadas:** Pruebas de renderizado y diseño responsivo ejecutadas de forma nativa en el navegador Opera. Resolución exhaustiva de advertencias de ESLint y tipado estricto de TypeScript (`error TS6133`, `TS2307`) para lograr un entorno de compilación exitoso en la nube (Vercel).
 *   **Fuentes consultadas:** Documentación oficial de la API de Rick and Morty.
