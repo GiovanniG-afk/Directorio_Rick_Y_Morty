@@ -1,5 +1,5 @@
-import React, { useState, useEffect, useMemo } from 'react';
-import { Search, Heart, Trash2, Edit2, AlertCircle, Loader2, Star, Save, X, ChevronDown, Database, Activity, MapPin, Tv, Dna, Eye, ShieldAlert, Fingerprint } from 'lucide-react';
+import { useState, useEffect, useMemo } from 'react';
+import { Search, Heart, Trash2, Edit2, AlertCircle, Loader2, Save, X, ChevronDown, Database, Activity, MapPin, Tv, Dna, Eye, ShieldAlert, Fingerprint } from 'lucide-react';
 
 // ============================================================================
 // 1. TIPOS E INTERFACES 
